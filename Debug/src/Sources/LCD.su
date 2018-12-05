@@ -1,0 +1,8 @@
+LCD.c:18:16:SPI_SendRecv	16	static
+LCD.c:29:13:LCD_CMD	16	static
+LCD.c:36:6:LCD_Setup	8	static
+LCD.c:49:6:LCD_Clear	8	static
+LCD.c:54:6:LCD_DrawBitmap	16	static
+LCD.c:59:6:LCD_DrawText	40	static
+LCD.c:73:6:LCD_Copy	16	static
+LCD.c:83:6:LCD_Data	24	static
